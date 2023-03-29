@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Rigidbody
+  - water_zone
+  - colzone
   layers:
   - Default
   - TransparentFX
